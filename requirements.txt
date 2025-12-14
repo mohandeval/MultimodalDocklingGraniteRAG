@@ -1,0 +1,15 @@
+
+python-dotenv
+langchain-huggingface text-generation transformers
+langchain-community
+langchain langchain-core
+huggingface_hub[hf_xet]
+langchain_milvus  
+pymilvus[milvus_lite] # Open your terminal (not a Jupyter cell) and run: uv pip install "pymilvus[milvus_lite]"
+#hf_xet
+sentence-transformers
+replicate
+docling
+docling-core
+annoy langchain_community
+
